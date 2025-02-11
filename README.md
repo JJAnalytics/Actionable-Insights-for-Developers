@@ -44,19 +44,17 @@ The Google Play Store offers valuable data that can drive success for app develo
 
 ## Insights & Recommendations
 
--	User demographics varied, with app downloads being influenced by specific preferences. Adults showed a strong interest in comic and sports apps, while teens favoured social, news, and magazine apps.
-  Overall, communication apps attracted users across all age groups. Developers can create or promote apps tailored to these demographic preferences.
+- Adults prefer comic and sports apps, while teens favor social, news, and magazine apps. Communication apps appeal to all ages. Developers should:
 
- 	Example: Adults: Focus on developing or enhancing apps related to comics or sports, featuring content that resonates with their interests.
- 	Teens: Invest in building or refining social, news, and magazine apps that cater to teen interests, such as social networking, lifestyle topics, or trending news.
- 	Everyone (Communication Apps): Since communication apps appeal to all age groups, ensure that these apps offer features that cater to a broad audience, such as messaging, voice, and video calling functionalities.
+  Adults: Focus on comics and sports.
 
-- Instagram indicates strong user engagement & over time can help identify trends in user engagement for the app’s growth and popularity.
-  Developers can focus on tracking engagement metrics: such as daily active users, user session time, frequency of interactions, and content creation.
+  Teens: Build social, news, and magazine apps.
 
-- Communication apps have a strong demand in the market. By analysing this data developers can focus more on this genre which may be more lucrative and worthy in terms of monetization strategies.
-  Developers can implement premium features for in-app purchases such as custom emojis, subscription services for ad-free experiences, or advertise ads in non-intrusive ways such as rewarded video ads.
+  Everyone: Enhance communication apps with messaging and video calling.
 
+  Instagram's engagement helps track growth trends, with key metrics like active users and session time.
+
+Communication apps have strong demand, and developers can monetize with premium features or non-intrusive ads.
 
 ## Limitations & Potential Solutions
 
