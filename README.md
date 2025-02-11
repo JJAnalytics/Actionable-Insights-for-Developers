@@ -16,6 +16,8 @@ The Google Play Store offers valuable data that can drive success for app develo
 
 - What monetization strategies should developers consider based on app demand?
 
+- <a href="https://github.com/JJAnalytics/Actionable-Insights-for-Developers-/blob/main/Dashboard.png">View Dashboard</a>
+
 ## Cleaning & Transformation
 
 -	Created new Columns.
@@ -34,4 +36,7 @@ The Google Play Store offers valuable data that can drive success for app develo
 
 -	Removed errors.
   
-- <a href="https://github.com/JJAnalytics/Actionable-Insights-for-Developers-/blob/main/Dashboard.png">View Dashboard</a>
+- <a href="https://github.com/JJAnalytics/Actionable-Insights-for-Developers-/blob/main/Data%20Cleaning%20%26%20Transformation%20Process.png">Data Cleaning & Transformation</a>
+
+## Dashboard
+
