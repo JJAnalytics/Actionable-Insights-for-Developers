@@ -6,7 +6,7 @@ The Google Play Store offers valuable data that can drive success for app develo
 
 ## Dataset
 
-- <a href="https://github.com/JJAnalytics/Actionable-Insights-for-Developers-/blob/main/googleplaystore.csv">Dataset</a>
+- <a href="https://github.com/JJAnalytics/Actionable-Insights-for-Developers-/blob/main/googleplaystore.7z">Dataset</a>
 
 ## Questions (KPIs)
 
@@ -52,9 +52,9 @@ The Google Play Store offers valuable data that can drive success for app develo
 
   Everyone: Enhance communication apps with messaging and video calling.
 
-  Instagram's engagement helps track growth trends, with key metrics like active users and session time.
+- Instagram's engagement helps track growth trends, with key metrics like active users and session time.
 
-- Communication apps have strong demand, and developers can monetize with premium features or non-intrusive ads.
+  Communication apps have strong demand, and developers can monetize with premium features or non-intrusive ads.
 
 ## Limitations & Potential Solutions
 
