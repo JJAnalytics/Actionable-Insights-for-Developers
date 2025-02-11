@@ -16,7 +16,7 @@ The Google Play Store offers valuable data that can drive success for app develo
 
 - What monetization strategies should developers consider based on app demand?
 
-- <a href="https://github.com/JJAnalytics/Actionable-Insights-for-Developers-/blob/main/Dashboard.png">View Dashboard</a>
+  <a href="https://github.com/JJAnalytics/Actionable-Insights-for-Developers-/blob/main/Dashboard.png">View Dashboard</a>
 
 ## Cleaning & Transformation
 
@@ -36,7 +36,7 @@ The Google Play Store offers valuable data that can drive success for app develo
 
 -	Removed errors.
   
-- <a href="https://github.com/JJAnalytics/Actionable-Insights-for-Developers-/blob/main/Data%20Cleaning%20%26%20Transformation%20Process.png">Data Cleaning & Transformation</a>
+  <a href="https://github.com/JJAnalytics/Actionable-Insights-for-Developers-/blob/main/Data%20Cleaning%20%26%20Transformation%20Process.png">Data Cleaning & Transformation</a>
 
 ## Dashboard
 
@@ -54,7 +54,7 @@ The Google Play Store offers valuable data that can drive success for app develo
 
   Instagram's engagement helps track growth trends, with key metrics like active users and session time.
 
-Communication apps have strong demand, and developers can monetize with premium features or non-intrusive ads.
+- Communication apps have strong demand, and developers can monetize with premium features or non-intrusive ads.
 
 ## Limitations & Potential Solutions
 
