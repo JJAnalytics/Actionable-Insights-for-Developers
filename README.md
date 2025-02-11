@@ -59,13 +59,16 @@ The Google Play Store offers valuable data that can drive success for app develo
 ## Limitations & Potential Solutions
 
 - Marketing campaigns for a particular genre.
+
   Conduct surveys segmenting the demographic data by age, interests, & location to refine audience understanding.
 
 - Highly competitive genre may increase their performance or features.
-  Introduce new features or prioritize features based on user feedback, conducting user research to identify the most impactful features.
+
+   Introduce new features or prioritize features based on user feedback, conducting user research to identify the most impactful features.
 
 - User interest may change, which can cause a decrease in the market.
-  Continuously monitor popular trends within your app’s genre and introduce incremental updates to keep the app relevant.           
+
+   Continuously monitor popular trends within your app’s genre and introduce incremental updates to keep the app relevant.           
 
 ## Summary
 
