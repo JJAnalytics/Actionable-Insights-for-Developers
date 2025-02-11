@@ -46,7 +46,8 @@ The Google Play Store offers valuable data that can drive success for app develo
 
 -	User demographics varied, with app downloads being influenced by specific preferences. Adults showed a strong interest in comic and sports apps, while teens favoured social, news, and magazine apps.
   Overall, communication apps attracted users across all age groups. Developers can create or promote apps tailored to these demographic preferences.
-  Example: Adults: Focus on developing or enhancing apps related to comics or sports, featuring content that resonates with their interests.
+
+ 	Example: Adults: Focus on developing or enhancing apps related to comics or sports, featuring content that resonates with their interests.
  	Teens: Invest in building or refining social, news, and magazine apps that cater to teen interests, such as social networking, lifestyle topics, or trending news.
  	Everyone (Communication Apps): Since communication apps appeal to all age groups, ensure that these apps offer features that cater to a broad audience, such as messaging, voice, and video calling functionalities.
 
