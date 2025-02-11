@@ -1,4 +1,4 @@
-# Actionable-Insights-for-Developers-
+# Actionable-Insights-for-Developers
 
 ## Overview
 
@@ -33,4 +33,5 @@ The Google Play Store offers valuable data that can drive success for app develo
 -	Rename columns.
 
 -	Removed errors.
-<a href="">View Dashboard</a>
+  
+- <a href="https://github.com/JJAnalytics/Actionable-Insights-for-Developers-/blob/main/Dashboard.png">View Dashboard</a>
