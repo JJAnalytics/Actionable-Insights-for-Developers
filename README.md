@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Google Play Store offers valuable data that can drive success for app developers and businesses. Our goal is to analyse app information such as ratings, reviews, downloads & genres so developers can gain actionable insights to improve their apps and capture a larger share of the Android market. This data can help identify market gaps, enhance marketing strategies, and refine monetization approaches.
+The Google Play Store offers valuable data that can drive success for app developers and businesses. Our goal is to analyse app information such as ratings, reviews, downloads & genres so developers can gain actionable insights to improve their apps and capture a larger share of the Android market. This data can help identify market gaps, enhance marketing strategies, and refine monetisation approaches.
 
 ## Dataset
 
@@ -14,7 +14,7 @@ The Google Play Store offers valuable data that can drive success for app develo
 
 - Which app genres are most in demand across all age groups?
 
-- What monetization strategies should developers consider based on app demand?
+- What monetisation strategies should developers consider based on app demand?
 
   <a href="https://github.com/JJAnalytics/Actionable-Insights-for-Developers-/blob/main/Dashboard.png">View Dashboard</a>
 
@@ -32,7 +32,7 @@ The Google Play Store offers valuable data that can drive success for app develo
 
 -	Removed duplicates
 
--	Rename columns.
+-	Renamed columns.
 
 -	Removed errors.
   
@@ -54,7 +54,7 @@ The Google Play Store offers valuable data that can drive success for app develo
 
 - Instagram's engagement helps track growth trends, with key metrics like active users and session time.
 
-  Communication apps have strong demand, and developers can monetize with premium features or non-intrusive ads.
+  Communication apps have strong demand, and developers can monetise with premium features or non-intrusive ads.
 
 ## Limitations & Potential Solutions
 
@@ -64,7 +64,7 @@ The Google Play Store offers valuable data that can drive success for app develo
 
 - Highly competitive genre may increase their performance or features.
 
-   Introduce new features or prioritize features based on user feedback, conducting user research to identify the most impactful features.
+   Introduce new features or prioritise features based on user feedback, conducting user research to identify the most impactful features.
 
 - User interest may change, which can cause a decrease in the market.
 
@@ -73,6 +73,6 @@ The Google Play Store offers valuable data that can drive success for app develo
 ## Summary
 
 User demographics affect app downloads, with adults preferring comics and sports, teens favouring social and news apps, and communication apps appealing to all ages. Developers can tailor apps to these preferences and include broad features for communication apps.
-Instagram’s engagement metrics reveal trends in app growth. Communication apps are in high demand, offering monetization opportunities through premium features and non-intrusive ads.
+Instagram’s engagement metrics reveal trends in app growth. Communication apps are in high demand, offering monetisation opportunities through premium features and non-intrusive ads.
 
 
